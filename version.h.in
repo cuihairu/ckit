@@ -1,0 +1,4 @@
+#define ckit_VERSION_MAJOR @ckit_VERSION_MAJOR@
+#define ckit_VERSION_MINOR @ckit_VERSION_MINOR@
+#define ckit_VERSION_PATCH @ckit_VERSION_PATCH@
+#define ckit_VERSION "@ckit_VERSION_MAJOR@.@ckit_VERSION_MINOR@.@ckit_VERSION_PATCH@"
